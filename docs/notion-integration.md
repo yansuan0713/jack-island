@@ -8,7 +8,7 @@
 
 描述：**探索我的游戏收藏、诗歌、Glass Heaven 工作室与 AI 实验，顺手收集五枚旅行邮戳。**
 
-链接：https://yansuan0713.github.io/jack-island/ （首次正式部署成功后启用）
+链接：https://yansuan0713.github.io/jack-island/
 
 建议用 Callout 放标题、描述和“进入小岛”链接，或粘贴链接选择 Bookmark。自动书签预览取决于 Notion 抓取结果，不保证使用指定截图。
 
@@ -25,7 +25,7 @@
 
 ## 兼容性与验证
 
-- Notion 支持 URL 嵌入，但目标站点若由 `X-Frame-Options` 或 CSP `frame-ancestors` 禁止 iframe，可能无法显示。正式发布后检查 Pages 响应头；允许框架不等于已经在 Notion 实测成功。
+- Notion 支持 URL 嵌入，但目标站点若由 `X-Frame-Options` 或 CSP `frame-ancestors` 禁止 iframe，可能无法显示。本站发布验收时未观察到这两种限制性响应头；这不等于已经在 Notion 实测成功。
 - 嵌入宽度可能触发手机布局，面板出现在地图下方；要允许嵌入块内滚动。
 - 浏览器隐私策略可能分区或禁止 iframe 内 localStorage。邮戳进度可能与独立浏览器不共享；禁止保存时仍能探索，但刷新可能丢失进度。
 - 手机 Notion App 内嵌体验需在实际设备验收；若高度或滚动不便，使用外部浏览器链接。

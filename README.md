@@ -4,7 +4,7 @@
 
 **[在线体验](https://yansuan0713.github.io/jack-island/)** · [GitHub 仓库](https://github.com/yansuan0713/jack-island) · [第三方许可](THIRD_PARTY_NOTICES.md)
 
-> 正式发布前，在线地址为预定入口；首次 GitHub Actions 部署成功后生效。
+站点已通过 GitHub Actions 发布。后续推送 main 会自动构建、测试并更新。
 
 ![Jack's Island 白天地图](docs/images/desktop-day.jpg)
 
